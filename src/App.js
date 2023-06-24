@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import AnyUnknown from "./screens/AnyUnknown.tsx";
+import Basic from "./screens/ts-basic/Basic";
 
 function App() {
   return (
     <>
-      <AnyUnknown />
+      <Basic />
     </>
   );
 }
